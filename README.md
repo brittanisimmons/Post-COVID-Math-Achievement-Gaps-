@@ -45,10 +45,11 @@ Filtered out years outside these two windows
 Achievement Gap Construction:
 Three achievement gap variables were constructed by subtracting the mean score of the reference group from the mean score of the focal group (at the district-grade-year level):
  
-Gap	        Focal Group	Reference Group	 Reported Model 1 N
-Black–White	Black	        White	         26,207
-Hispanic–White	Hispanic	White	         43,666
-Female–Male	Female	        Male	         93,471
+| Gap            | Focal Group | Reference Group | Reported Model 1 N |
+| -------------- | ----------- | --------------- | ------------------ |
+| Black–White    | Black       | White           | 26,207             |
+| Hispanic–White | Hispanic    | White           | 43,666             |
+| Female–Male    | Female      | Male            | 93,471             |
  
 - Negative values indicate the focal group scored below the reference group
 
@@ -99,7 +100,7 @@ Post-COVID mean math achievement by group (2022–2024):
 Pre vs. Post COVID comparison (Table 3, as reported):
 
 |                |           |            | Difference |
-| Gap            | Pre-COVID | Post-COVID | In Years  |			               
+| Gap            | Pre-COVID | Post-COVID | In Years   |			               
 | -------------- | --------- | ---------- | ---------- |
 | Black–White    | −0.667    | −0.722     | −0.055     |
 | Hispanic–White | −0.447    | −0.482     | −0.036     |
@@ -147,9 +148,6 @@ Model 2 — Pre-to-Post COVID change (as reported):
 - SD interpretation. The conversion of SD units to "years of learning" is an approximation, not a direct measure of instructional time. 
 
 - SES composite. The sesavgall index captures correlated socioeconomic dimensions but is not a direct measure of any single factor.
-
-## Suggested Repository Structure
-
 
 
 
