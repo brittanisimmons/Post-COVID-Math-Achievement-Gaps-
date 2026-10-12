@@ -153,6 +153,6 @@ Model 2 — Pre-to-Post COVID change (as reported):
 
 ## Contact
 
-- Website: edalyticsconsulting.com
+- Website: www.edalyticsconsulting.com
 - LinkedIn: www.linkedin.com/in/brittani-bolden
 - Email: brittanisimmons01@gmail.com
